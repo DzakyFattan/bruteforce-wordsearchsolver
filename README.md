@@ -26,6 +26,6 @@ C. Cara menggunakan program
 
 D. Author
 
-   Nama    : Dzaky Fattan Rizqullah
-   NIM     : 13520003
-   Kelas   : K3
+   Nama    : Dzaky Fattan Rizqullah  
+   NIM     : 13520003  
+   Kelas   : K3  
