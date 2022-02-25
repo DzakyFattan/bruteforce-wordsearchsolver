@@ -18,10 +18,10 @@ B. Requirement program
 
 C. Cara menggunakan program
 
-	1. Cukup jalankan executable "WordSearchSolver.exe" di dalam folder "bin", atau compile file "WordSearchBF.c" dan jalankan hasil kompilasi.
-	2. Pengguna akan diminta untuk memasukkan nama file data uji tanpa ekstensinya (format .txt). Pastikan pula .txt menggunakan format EOL yaitu CRLF dan memakai UTF-8.
-	3. Program akan menampilkan Petak Puzzle dan kumpulan kata kunci yang akan ditemukan. Pengguna dapat menekan tombol Enter untuk melanjutkan program.
-	4. Program akan menyelesaikan puzzle tersebut, menampilkan informasi berupa: Posisi dan arah kata yang ditemukan beserta jumlah perbandingan huruf per-kata; Petak puzzle yang sudah ditandai jawabannya, waktu eksekusi program, dan total perbandingan huruf yang dilakukan.
+1. Cukup jalankan executable "WordSearchSolver.exe" di dalam folder "bin", atau compile file "WordSearchBF.c" dan jalankan hasil kompilasi.
+2. Pengguna akan diminta untuk memasukkan nama file data uji tanpa ekstensinya (format .txt). Pastikan pula .txt menggunakan format EOL yaitu CRLF dan memakai UTF-8.
+3. Program akan menampilkan Petak Puzzle dan kumpulan kata kunci yang akan ditemukan. Pengguna dapat menekan tombol Enter untuk melanjutkan program.
+4. Program akan menyelesaikan puzzle tersebut, menampilkan informasi berupa: Posisi dan arah kata yang ditemukan beserta jumlah perbandingan huruf per-kata; Petak puzzle yang sudah ditandai jawabannya, waktu eksekusi program, dan total perbandingan huruf yang dilakukan.
 
 ===
 
